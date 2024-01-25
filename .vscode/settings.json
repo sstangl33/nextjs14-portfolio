@@ -19,5 +19,7 @@
   "editor.formatOnSave": true,
   "editor.indentSize": "tabSize",
   "editor.tabSize": 2,
-  "cSpell.words": ["Swiper"]
+  "cSpell.words": ["Swiper", "unoptimized"],
+  "tailwindCSS.emmetCompletions": true,
+  "emmet.triggerExpansionOnTab": true
 }

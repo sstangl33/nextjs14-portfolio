@@ -99,6 +99,7 @@ const HeroBanner = () => {
         height={300}
         width={300}
         className="absolute top-0 left-0 z-[10]"
+        unoptimized
       />
     </>
   );
