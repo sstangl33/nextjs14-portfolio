@@ -77,6 +77,7 @@ const HeroBanner = () => {
           height={300}
           width={300}
           className="absolute right-55 top-40"
+          unoptimized
         />
 
         <Image src="/cliff.webp" alt="cliff" width={480} height={480} />
